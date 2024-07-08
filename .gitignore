@@ -107,3 +107,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 img_align_celeba
+
+dataset
+archive
